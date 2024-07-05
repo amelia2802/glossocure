@@ -1,0 +1,83 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.968);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display:block;
+}
+header{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  box-shadow: 10px 0 10px rgb(243, 239, 61);
+}
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+#app {
+  position: absolute;
+  top: 10rem;
+  margin:0 7rem;
+}
+
+.head-component{
+  display: flex;
+  justify-content:space-between ;
+}
+
+#getNewParagraph {
+  height: 100%;
+  padding: 1rem;
+  border-radius: 25px;
+  background-color: rgb(240, 248, 151);
+  font-weight: 600;
+  font-family: inherit;
+}
+
+#getNewParagraph:hover,#getNewParagraph:focus{
+  background-color: rgb(231, 246, 76);
+  box-shadow: 1px 1px 5px rgb(249, 255, 186);
+  color: black;
+}
+
+h2{
+  font-size: 1.5rem;
+  font-style: oblique;
+}
+#paragraph{
+  line-height: 27px;
+}
+
+.daily-tips{
+  margin: auto;
+  width: 30%;
+  border: 2px dashed rgb(224, 248, 151);
+  margin-top: 3rem;
+  border-radius: 1rem 1rem 13%;
+  text-align: center;
+  padding: 0 1rem;
+}
