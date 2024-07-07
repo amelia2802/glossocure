@@ -25,7 +25,7 @@ Build a Generative AI-enabled web app integrating Amazon Bedrock
 
 ### What I learned
 
-Read This article to know [TBD](https://ameliadutta.hashnode.dev/how-to-create-a-summary-generator-app-with-mistral-ai-a-step-by-step-guide)
+Read This article to know [A Step-by-Step Guide to Create a Speaking Practice App with AWS Bedrock](https://ameliadutta.hashnode.dev/a-step-by-step-guide-to-create-a-speaking-practice-app-with-aws-bedrock)
 
 ### Useful resources
 
